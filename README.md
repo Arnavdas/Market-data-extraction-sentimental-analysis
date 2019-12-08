@@ -5,6 +5,7 @@ In this project I used the python library Beautifulsoup to extract webpage conte
   - Management's Discussions and Analysis
   - Quantitative and Qualitative Disclosures about Market Risks
   - Risk Factors
+  
 Then I used nltk library as well as the regex library to capture the essential words for sentimental analysis, I specifically calculated:
   - postivity, negativity, uncertainity, polarity, constraining score
   - fog-index, complex word count, average sentence length, word count
