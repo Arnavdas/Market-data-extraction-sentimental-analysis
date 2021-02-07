@@ -1,7 +1,7 @@
 # Market-data-extraction-sentimental-analysis
 A Data science project in data extraction and sentimental analysis
 
-In this project I used the python library Beautifulsoup to extract webpage contents with only <page> tags and whihc only contained these 3 sections namely:
+In this project I used the python library Beautifulsoup to extract webpage contents with only <page> tags and which only contained these 3 sections namely:
   - Management's Discussions and Analysis
   - Quantitative and Qualitative Disclosures about Market Risks
   - Risk Factors
